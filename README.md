@@ -13,17 +13,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
- <br/> 
-
-😄 **Let's Talk about Personal Stuffs:**
-
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🌱 I’m currently learning Computer Networking.
-- 🏏 I Love to play Cricket in my free time.
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: ratiktiwari@gmail.com;
-
-</br>
+ 
+ </br>
 
 ⚡ **Languages and Tools:**
 <br/>
@@ -41,9 +32,18 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 <br/>
 <br/>
+
+😄 **Let's Talk about Personal Stuffs:**
+
+- 👨🏻‍💻 I’m currently working on something cool;
+- 🌱 I’m currently learning Computer Networking.
+- 🏏 I Love to play Cricket in my free time.
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: ratiktiwari@gmail.com;
+
+
 <br/>
-
-
+<br/>
 
 📈 **My GitHub Stats:**
 
