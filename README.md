@@ -11,7 +11,7 @@ I am a Full-Stack Android Developer and a curious researcher. I love to make app
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to build things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/48574130/118494691-0edbae00-b740-11eb-9b33-96acd66602dc.gif" width="408" height="318" />
 
  
  </br>
