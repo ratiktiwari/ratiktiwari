@@ -7,7 +7,7 @@
 
 ### Glad to see you here!
 
-I am a Full-Stack Android Developer and a curious researcher. I love to make apps, solve coding problems, try new technologies and play Cricket.
+I am an Android Developer and a curious researcher. I love to make apps, solve coding problems, try new technologies and play Cricket.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to build things that make a difference.
 
